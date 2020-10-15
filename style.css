@@ -21,3 +21,6 @@ body {
   background-color: #ddd;
   color: black;
 }
+.navbar a:active {
+  float: right;
+}
