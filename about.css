@@ -6,3 +6,21 @@ body {
  background-color: #515151;
  text-align: center;
 }
+.navbar {
+  background-color: #515151;
+  overflow: hidden;
+  text-align: center;
+  font-family: arial;
+  padding: 60px;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+}
+.navbar a.active {
+  background-color: #666;
+  color: white;
+}
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
