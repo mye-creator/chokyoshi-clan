@@ -1,4 +1,5 @@
 # chokyoshi-clan
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1d644bdd-a321-4588-ba20-12a8dd385d37/deploy-status)](https://app.netlify.com/sites/naughty-euclid-29e976/deploys)
 **Read carefully!**
 That one discord clan site where you can have fun. Made with HTML, CSS.
 You can help me as well! But with intermediate-good knowledge of HTML and CSS, we can create things together!
