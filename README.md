@@ -19,7 +19,7 @@ Maybe can be added:
 
 ## Code
 Want to clone into it? Type:
-```python
+```c++
 git clone https://github.com/mye-creator/chokyoshi-clan
 ```
 in git terminal
