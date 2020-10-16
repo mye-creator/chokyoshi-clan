@@ -6,7 +6,7 @@ You can help me as well! But with intermediate-good knowledge of HTML and CSS, w
 ---
 
 ## Contributors
-- Daniel E. S. (Mye as nickname)
+• Daniel E. S. (Mye as nickname)
 
 ---
 
