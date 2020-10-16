@@ -12,6 +12,7 @@ body {
   background-color: #ffffff;
   padding: 20px 10px;
   text-align: center;
+  display: inline-block;
 }
 
 .header a {
@@ -23,22 +24,26 @@ body {
   font-size: 18px; 
   line-height: 25px;
   border-radius: 4px;
+  display: inline-block;
 }
 .header a:hover {
   background-color: #ffffff;
   color: black;
   text-align: center;
+  display: inline-block;
 }
 
 .header a.active {
   background-color: #747474;
   color: white;
   text-align: center;
+  display: inline-block;
 }
 
 .header-right {
   float: right;
   text-align: center;
+  display: inline-block;
 }
 @media screen and (max-width: 500px) {
   .header a {
@@ -50,5 +55,6 @@ body {
   .header-right {
     float: none;
     text-align: center;
+    display: inline-block;
   }
 }
