@@ -16,6 +16,11 @@ Maybe can be added:
 
 ---
 
+## Code
+Want to clone into it? Type: ```git clone https://github.com/mye-creator/chokyoshi-clan``` in terminal
+
+---
+
 ## Information, License and Copyright
 
 You can help me with
