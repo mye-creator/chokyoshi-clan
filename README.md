@@ -17,5 +17,9 @@ Maybe can be added:
 ---
 
 ## Information, License and Copyright
+
+You can help me with
 This website made by Daniel (Mye).
 © Daniel E. S. Kazakhstan, Shchuchinsk.
+DM me on discord if you are interested! **Myemilia#7913**
+[Discord Clan](https://discord.gg/vEfZKm5]
