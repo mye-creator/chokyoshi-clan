@@ -17,7 +17,11 @@ Maybe can be added:
 ---
 
 ## Code
-Want to clone into it? Type: ```git clone https://github.com/mye-creator/chokyoshi-clan``` in terminal
+Want to clone into it? Type:
+```
+git clone https://github.com/mye-creator/chokyoshi-clan
+```
+in git terminal
 
 ---
 
