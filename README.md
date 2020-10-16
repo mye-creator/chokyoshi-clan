@@ -19,11 +19,24 @@ Maybe can be added:
 
 ## Code
 Want to clone into it? Type:
-```html
+```
 git clone https://github.com/mye-creator/chokyoshi-clan
 ```
 in git terminal
 
+---
+
+## Short Code of the site
+```html
+<html>
+ <head>
+  <title>Chõkyoshi Clan</title>
+ </head>
+ <body>
+  <h1>Chõkyõshi Clan</h1>
+ </body>
+</html>
+```
 ---
 
 ## Information, License and Copyright
