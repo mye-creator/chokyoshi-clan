@@ -23,3 +23,5 @@ You can help me with
 This website made by Daniel (Mye).
 © Daniel E. S. Kazakhstan, Shchuchinsk.
 DM me on discord if you are interested! **Myemilia#7913**
+
+![Screenshot of website](https://cdn.discordapp.com/attachments/415496000761757696/766577701150130186/20201016_142548.jpg)
